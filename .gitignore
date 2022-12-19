@@ -1,0 +1,20 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Build artifacts
+dist/
+build/
+
+# Environment variables
+.env
+
+# IDE configuration files
+.vscode/
+
+# Generated files
+coverage/
+*.lock
